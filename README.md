@@ -8,5 +8,5 @@ The typical device specifications for the "TX9PROMAX" TV box are given below in 
 
 <img width="590" height="600" alt="image" src="https://github.com/user-attachments/assets/8755e24c-24a6-47a6-a3e6-34990e06298e" />
 
-Important links to documentation of components found on the motherboard/mainboard:
+Important links to documentation of the Allwinner H616 found on the motherboard/mainboard:
 https://linux-sunxi.org/H616
