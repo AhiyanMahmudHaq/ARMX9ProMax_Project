@@ -1,10 +1,12 @@
-# ARMX9ProMax_Project
+<img width="573" height="562" alt="image" src="https://github.com/user-attachments/assets/f17a18c7-e672-4988-98f8-cd38869009e3" /># ARMX9ProMax_Project
 Firstly, I must state that: 
 ### *1. I am not responsible for any damage that is caused to your TV box.*
 ### *2. You must figure out the hardware specifications of your TV box and then decide whether you can use this repository can help you install Armbian GNU/Linux.*
 The ARMX9ProMax Project is a repository containing the files required to flash and run Armbian GNU/Linux on a generic, unbranded TV box that shows up as "TX9PROMAX" in AIDA64 and other device information apps inside of the OEM/stock Android distribution. The small, Allwinner H616-powered budget TV box is very commonly found in TV box stores in Bangladesh. This repository contains the Device Tree Source and the Device Tree Blob as well as the optimal Linux kernel for ONLY this specific model of TV box.
 This project is liscensed under the GNU General Public Liscense 3.0 to promote free and open source software.
-The typical device specifications for the "TX9PROMAX" TV box are given below:
+The typical device specifications for the "TX9PROMAX" TV box are given below in the form of a table:
+
+<img width="590" height="600" alt="image" src="https://github.com/user-attachments/assets/8755e24c-24a6-47a6-a3e6-34990e06298e" />
 
 Important links to documentation of components found on the motherboard/mainboard:
 https://linux-sunxi.org/H616
