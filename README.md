@@ -18,3 +18,4 @@ Important links to documentation of the Allwinner H616 found on the motherboard/
 
 [Android Open Source Project about the DTBO partition (Android 9)](https://source.android.com/docs/core/architecture/dto/compile)
 
+[Wikipedia link to Universal Serial Bus (USB) On-The-Go (OTG) cable, which is required for wired debugging](https://en.wikipedia.org/wiki/USB_On-The-Go)
