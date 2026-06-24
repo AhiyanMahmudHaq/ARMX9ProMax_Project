@@ -6,7 +6,7 @@ The ARMX9ProMax Project is a repository containing the files required to flash a
 This project is protected under the GNU General Public License 3.0 to promote free and open source software.
 The typical device specifications for the "TX9PROMAX" TV box are given below in the form of a table:
 
-<img width="590" height="600" alt="image" src="https://github.com/user-attachments/assets/8755e24c-24a6-47a6-a3e6-34990e06298e" />
+<img width="589" height="595" alt="image" src="https://github.com/user-attachments/assets/dec3186d-e769-4f6c-8f75-f1cb081f734d" />
 
 This project requires extraction of Device Tree Blob (DTB/.dtb) files from the running Android system, if root is present in it through wired debugging via Android Debug Bridge (ADB).
 
