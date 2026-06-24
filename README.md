@@ -10,7 +10,7 @@ The typical device specifications for the "TX9PROMAX" TV box are given below in 
 
 This project requires extraction of the Device Tree Blob (DTB/.dtb) files from the running Android system, if root is present in it through wired debugging via Android Debug Bridge (ADB).
 
-Important links to documentation of the Allwinner H616 found on the motherboard/mainboard:
+Important links to documentation of the installation process as a whole:
 
 [Wikipedia link to what a Device Tree is](https://en.wikipedia.org/wiki/Devicetree)
 
