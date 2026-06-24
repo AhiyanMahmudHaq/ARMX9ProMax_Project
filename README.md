@@ -11,6 +11,7 @@ The typical device specifications for the "TX9PROMAX" TV box are given below in 
 This project requires extraction of Device Tree Blob (DTB/.dtb) files from the running Android system, if root is present in it.
 
 Important links to documentation of the Allwinner H616 found on the motherboard/mainboard:
+
 [Linux kernel support for Allwinner H616](https://linux-sunxi.org/H616)
 
 [Android Open Source Project about the DTBO partition](https://source.android.com/docs/core/architecture/dto/compile)
