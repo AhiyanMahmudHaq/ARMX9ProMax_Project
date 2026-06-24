@@ -12,6 +12,9 @@ This project requires extraction of Device Tree Blob (DTB/.dtb) files from the r
 
 Important links to documentation of the Allwinner H616 found on the motherboard/mainboard:
 
+[Wikipedia link to what a Device Tree is](https://en.wikipedia.org/wiki/Devicetree)
+
 [Linux kernel support for Allwinner H616](https://linux-sunxi.org/H616)
 
 [Android Open Source Project about the DTBO partition (Android 9)](https://source.android.com/docs/core/architecture/dto/compile)
+
