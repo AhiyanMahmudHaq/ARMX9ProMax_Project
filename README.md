@@ -8,7 +8,7 @@ The typical device specifications for the "TX9PROMAX" TV box are given below in 
 
 <img width="589" height="595" alt="image" src="https://github.com/user-attachments/assets/dec3186d-e769-4f6c-8f75-f1cb081f734d" />
 
-This project requires extraction of the Device Tree Blob (DTB/.dtb) files from the running Android system, if root is present in it through wired debugging via Android Debug Bridge (ADB). Wired debugging is not possible using a generic USB-A-to-USB-C data transfer enabled cable; you will need a specialized USB-A-to-USB-A cable which can be made by joining two cables with USB-A by soldering. However, this is not recommended for absolute beginners as they may damage the cable. **Always be careful when soldering to avoid burns. Never breathe in solder fumes and use always use a fume extractor when soldering.**
+This project requires extraction of the Device Tree Blob (DTB/.dtb) files from the running Android system, if root is present in it through wired debugging via Android Debug Bridge (ADB). Wired debugging is not possible using a generic USB-A-to-USB-C data transfer enabled cable; you will need a specialized USB-A-to-USB-A cable which can be made by joining two cables with USB-A by soldering. However, this is not recommended for absolute beginners as they may damage the cable. There is a chance that this may damage the motherboard of your TV box permanently. Try to check whether wired debugged is enabled for the USB interfaces of your TV box.**Always be careful when soldering to avoid burns. Never breathe in solder fumes and use always use a fume extractor when soldering.**
 
 Important links to documentation of the installation process as a whole:
 
