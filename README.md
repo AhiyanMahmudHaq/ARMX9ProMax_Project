@@ -22,3 +22,4 @@ Important links to documentation of the installation process as a whole:
 
 [Android Open Source Project (AOSP) about the DTBO partition (Android 9)](https://source.android.com/docs/core/architecture/dto/compile)
 
+[Important forum link for debbugging](https://en.eeworld.com.cn/bbs/thread-1245672-1-1.html)
