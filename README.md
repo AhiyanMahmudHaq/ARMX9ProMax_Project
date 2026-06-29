@@ -2,7 +2,7 @@
 
 ### **Disclaimer:**
 * **I am not responsible for any of the damages that may be inflicted to your device.** 
-* **The incorrect installation of an operating system (OS) on an embedded device may render it permanently unuseable, often referred to as *"bricking."*
+* **The incorrect installation of an operating system (OS) on an embedded computer system may render it permanently unuseable, often referred to as *"bricking."***
 * **Never violate the End User License Agreement of a manufacturer's device, violations include reverse engineering the source code of properietary software and uploading it to the internetor using it for commercial purposes.**
 
 ### Preface
