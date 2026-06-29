@@ -14,4 +14,4 @@ I initially began developing this project to learn more about embedded Linux sys
 
 This repository contains the full procedure of research development and installation of Armbian Trixie GNU/Linux (minimal/server) on the H616-powered machine. It even includes the mistakes that were made during the entire process. The whole project, including all the files are protected as *open-source* and is provided with *absolutely* no warranty, to the extent the law provides. Therefore, you do not require crediting the owner.
 
-### Research and develpment
+### Research and development
