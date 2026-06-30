@@ -1,4 +1,4 @@
-# The Hisillion TX9 Pro Max Project
+# The Hisillicon TX9 Pro Max Project
 
 ## **Disclaimer**
 * **I am not responsible for any of the damages that may be inflicted to your device.** 
