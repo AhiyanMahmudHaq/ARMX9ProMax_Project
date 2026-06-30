@@ -18,13 +18,14 @@ This repository contains the full procedure of research, development and install
 ## Research
 
 The primary resource for learning how to build:
+
 Markdown
 # Linux Sunxi (Allwinner H616 / MQ-Quad) Build and Boot Guide
 
 ## 1. U-Boot Build and Boot from USB
 
 ### Install Dependencies and Pull Source
-```bash
+bash
 # Install sunxi-fel tools and Arm Trusted Firmware (arm64)
 # Pull down the latest U-Boot
 Modify U-Boot Configuration
