@@ -17,7 +17,8 @@ This repository contains the full procedure of research, development and install
 
 ## Research
 
-The primary resource for learning how to build:
+The primary resource for learning how to build the customized variant of Armbian GNU/Linux for this exact TV box is given below:
+Note: This has been taken from the internet and abridged by using an LLM, so it may contain mistakes caused by hallucination. The link of the thread where it has been taken from: [en.eeworld.com.cn/bbs/thread-1245672-1-1.html](https://en.eeworld.com.cn/bbs/thread-1245672-1-1.html)
 
 Markdown
 # Linux Sunxi (Allwinner H616 / MQ-Quad) Build and Boot Guide
