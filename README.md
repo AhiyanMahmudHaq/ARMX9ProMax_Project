@@ -1,12 +1,12 @@
 # The Hisillion TX9 Pro Max Project
 
-### **Disclaimer**
+## **Disclaimer**
 * **I am not responsible for any of the damages that may be inflicted to your device.** 
 * **The incorrect installation of an operating system (OS) on an embedded computer system may render it permanently unuseable, often referred to as *"bricking."***
 * **Never violate the End User License Agreement of a manufacturer's device, *violations include reverse engineering the source code of properietary software and uploading it to the internet or using it for commercial purposes.***
 * **If users intend to install their own system software on such devices, they must analyze the device's hardware specifications and think critically before attempting to do so.**
 
-### Preface
+## Preface
 The Hisillicon TX9 Pro Max Project's GitHub repository is dedicated to the development of a custom build of Armbian Trixie GNU/Linux (minimal or server variant) for the use of a cheap, common TV box that goes by the name of 'TX9 Pro Max.' Since the device is an open-source, white-label product; many different third-party Chinese companies resell it, so I did not specify its brand (the company that sells it). The TV box is found in television (TV) box and video accessories stores across Bangladesh. Although the boxes claim highly performative device hardware specifications (e.g., 256 Gigabytes of on-device non-volatile memory, 16 Gigabytes of Random Access Memory, Allwinner H313 System on a Chip (SoC)) the TV box comprises of significantly less performative device hardware specifications, as given below:
 
 <img width="589" height="601" alt="Screenshot from 2026-06-24 13-32-07" src="https://github.com/user-attachments/assets/946d4ac7-df1b-49bc-a556-c56b798f5e4e" />
@@ -15,4 +15,4 @@ I initially began developing this project to learn more about embedded Linux sys
 
 This repository contains the full procedure of research development and installation of Armbian Trixie GNU/Linux (minimal/server) on the H616-powered machine. It even includes the mistakes that were made during the entire process. The whole project, including all the files are protected as *open-source* and is provided with *absolutely* no warranty, to the extent the law provides. Therefore, you do not require crediting the owner.
 
-### Research and development
+## Research and development
